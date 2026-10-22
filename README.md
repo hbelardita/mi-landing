@@ -5,7 +5,7 @@ Este proyecto es una landing page básica desarrollada como parte de las prácti
 ## Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/hbelardita/mi-landing.git
 cd mi-landing
 ```
 
@@ -14,6 +14,7 @@ cd mi-landing
 Puedes abrir el archivo `index.html` directamente en tu navegador:
 
 - **Desde la terminal:**
+
   ```bash
   # Linux
   xdg-open index.html
@@ -25,4 +26,4 @@ Puedes abrir el archivo `index.html` directamente en tu navegador:
   start index.html
   ```
 
-- **O bien:** Haciendo doble clic sobre el archivo `index.html` desde el explorador de archivos, o utilizando extensiones como *Live Server* en Visual Studio Code.
+- **O bien:** Haciendo doble clic sobre el archivo `index.html` desde el explorador de archivos, o utilizando extensiones como _Live Server_ en Visual Studio Code.
